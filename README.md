@@ -11,3 +11,6 @@
 4. Adjust make file to link appropriate paths.
 
 5. Run Make and then demo app
+
+Reference: 
+https://www.youtube.com/watch?v=MWtHJTxgozQ
